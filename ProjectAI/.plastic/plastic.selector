@@ -1,0 +1,4 @@
+repository "ProjectAI@bc90ab98-07a5-4622-a7ab-718a7dbb7330@cloud.cn"
+  path "/"
+    smartbranch "/main" 
+     
