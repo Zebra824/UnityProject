@@ -1,3 +1,3 @@
 # UnityProject
 
-Unity projects collaborated with team
+Unity projects created with teams
